@@ -1,7 +1,7 @@
-# Linux Basics Capstone Projects
+# PenguinJr Associate
 
 Welcome to the Linux Basics Capstone Projects repository! This collection of projects is designed to help you upskill and validate your knowledge of Linux fundamentals. Whether you're a beginner looking to learn the 
-basics or an experienced user aiming to reinforce your skills, these projects provide hands-on opportunities to work with various aspects of Linux.
+basics or an experienced user aiming to reinforce your skills, these projects provide hands-on opportunities to work with various aspects of Linux. This is testing feature to be finally merged to Penguin Jr Associate program. 
 
 ## Overview
 
